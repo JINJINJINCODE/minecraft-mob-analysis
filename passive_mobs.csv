@@ -1,0 +1,35 @@
+Mob,Exp,Common drops,Rare drops,Equipped and worn items,Notes,Affected by the Looting enchantment
+Agent‌,0,,,,,
+Allay,0,,,,Also drops the item it is holding.,No
+Armadillo,1-3,,,,Brushing drops 1 Armadillo Scute. Also drops 1 Armadillo Scute every 5–10 minutes.,No
+Axolotl,1–3,,,,,
+Bat,0,,,,,
+Camel,1-3,,,1 Saddle if saddled,,No
+Cat,1-3,0-2 String,,,Tamed cat can also give player gift at morning after player sleeps: Feather Phantom membrane Rabbit's foot Rabbit hide Rotten flesh Raw chicken String,No
+Chicken,1–3,0–2 Feather 1 Raw Chicken or 1 Cooked Chicken,,,Meat is cooked if killed while on fire. Feather and meat drops are both affected by Looting. Also lays an Egg every 5–10 minutes.,Yes
+Cod,1–3,1 Raw Cod or 1 Cooked Cod‌[JE only],0-2 Bone (25%) ‌[BE only] Bone Meal (5%) ‌[JE only],,Fish is cooked if killed while on fire.‌[JE only],Bone and bone meal drops only
+Cow,1–3,0–2 Leather 1–3 Raw Beef or 1–3 Steak,,,Meat is cooked if killed while on fire. Gives Milk Bucket when pressing use with an empty bucket on it.,Yes
+Donkey Mule,1–3,0–2 Leather,,1 Saddle if saddled 1 Chest if equipped,Also drops all of the chest's contents.,Yes
+Frog,1-3,,,,,
+Glow Squid,1–3,1–3 Glow Ink Sac,,,,Yes
+Horse,1–3,0–2 Leather,,1 Saddle if saddled 1 Horse Armor if equipped,,Yes
+Mooshroom,1–3,0–2 Leather 1–3 Raw Beef or 1–3 Steak,,,"Meat is cooked if killed while on fire. Shearing drops 5 corresponding Mushroom, converting it to a normal cow, a process that cannot be reverted. Gives Milk Bucket when pressing use with an empty bucket. Gives Mushroom Stew when pressing use with an empty bowl on it.  If you feed a brown mooshroom a flower, then it produces suspicious stew if milked with a bowl, but only once.",Yes
+NPC‌,0,,,,,
+Ocelot,1–3,,,,,
+Parrot,1–3,1–2 Feather,,,,Yes
+Pig,1–3,1–3 Raw Porkchop or 1–3 Cooked Porkchop,,1 Saddle if saddled,Meat is cooked if died while on fire.,Yes
+Pufferfish,1–3,1 Pufferfish,1-2 Bone (25%) ‌[BE only] Bone Meal (5%) ‌[JE only],,,Bone and bone meal drops only
+Rabbit,1–3,1 Raw Rabbit or 1 Cooked Rabbit 0–1 Rabbit Hide,Rabbit's Foot (10%),,Meat is cooked if died while on fire.,Yes
+Salmon,1–3,1 Raw Salmon or 1 Cooked Salmon‌[JE only],0-2 Bone (25%) ‌[BE only] Bone Meal (5%) ‌[JE only],,Small and normal salmon drop 0-2 bone while large salmon drop 1-2 bones.‌[BE only]  Fish is cooked if died while on fire.‌[JE only],Bone and bone meal drops only
+Sheep,1–3,1 Wool if not sheared 1–2 Raw Mutton or 1–2 Cooked Mutton,,,Shearing drops 1-3 Wool. Wool is colored if the sheep was spawned colored or dyed. Meat is cooked if died while on fire.,Meat drop only
+Skeleton Horse,1–3,0–2 Bone,,,,Yes
+Sniffer,1–3,,,,Digs up torchflower seeds and pitcher pods.,No
+Snow Golem,0,0–15 Snowball,,,Shearing the snow golem that has carved pumpkin drops 1 carved pumpkin.,No
+Squid,1–3,1–3 Ink Sac,,,,Yes
+Strider,1–3,0–5 String,,1 Saddle if saddled,,Yes‌[JE only] No‌[BE only]
+Tadpole,0,,,,,
+Tropical Fish,1-3,1 Tropical Fish,1-2 Bone (25%) ‌[BE only] Bone Meal (5%) ‌[JE only],,,Bone and bone meal drops only
+Turtle,1-3,0-2 Seagrass  1 bowl if killed by lightning.,,,Drops a single turtle scute when grows up to an adult.,Yes
+Villager,0,,,,"A villager can throw food to other villagers when sharing, which can be picked up: Bread, Carrot, Potato, Beetroot Also in Java Edition, villagers give player gift after completing raids with possible drops depend on profession .mw-parser-output .hidden-left-btn .collapsetoggle{float:left;margin-left:inherit;margin-right:0.2em}View possible drops[show]  armorer: Chainmail Helmet Chainmail Chestplate Chainmail Leggings Chainmail Boots  butcher: Cooked Chicken Cooked Mutton Cooked Porkchop Cooked Rabbit Steak  cartographer: Paper Empty Map  cleric: Lapis Lazuli Redstone Dust  farmer: Bread Cookie Pumpkin Pie  fisherman: Raw Cod Raw Salmon  fletcher: Arrow Arrow of Fire Resistance Arrow of Harming Arrow of Healing Arrow of Invisibility Arrow of Leaping Arrow of Night Vision Arrow of Poison Arrow of Regeneration Arrow of Slowness Arrow of Strength Arrow of Swiftness Arrow of Water Breathing Arrow of Weakness  leatherworker: Leather  librarian: Book  mason: Clay  shepherd: Wool  toolsmith: Stone Axe Stone Hoe Stone Pickaxe Stone Shovel  weaponsmith: Stone Axe Iron Axe Golden Axe  baby: Poppy  nitwit: Wheat Seeds  unemployed: Wheat Seeds",No
+Wandering Trader,0,1 Potion of Invisibility or Milk Bucket if drinking when killed,,Potion of Invisibility Milk Bucket  they have a 8.5% chance of dropping it.,Potion of Invisibility and Milk can be obtained only by killing the wandering trader while it is drinking the potion or milk. Also drops 2 lead when killed or if detached from trader llama.,Increases chance of drop
+Zombie Horse,1–3,0–2 Rotten Flesh,,,,Yes

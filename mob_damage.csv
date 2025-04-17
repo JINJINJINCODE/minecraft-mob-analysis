@@ -1,0 +1,106 @@
+Mob Mob,Difficulty Easy,Difficulty Normal,Difficulty Hard,Status effect(s) Status effect(s)
+Agent,5HP,5HP,5HP,No
+Axolotl,2HP,2HP,2HP,No
+Bee,2HP,2HP,3HP,Poison for 10 seconds on Normal difficulty and for 18 seconds on Hard difficulty
+Blaze (melee),4HP,6HP,9HP,No
+Blaze fireball,5HP + fire for 5 seconds,5HP + fire for 5 seconds,5HP + fire for 5 seconds,No
+Bogged arrow,3HP to 5HP,3HP to 5HP,3HP to 5HP,Normally: Poison for 4 seconds If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow
+Bogged (melee),2HP,2HP,3HP,No
+Breeze wind charge,1HP,1HP,1.5HP × 0.75,No
+Cat,3HP,3HP,3HP,No
+Cave Spider,2HP,2HP,3HP,Poison for 7 seconds on Normal difficulty and for 15 seconds on Hard difficulty
+Creaking,2.5HP × 1.25,3HP,4.5HP × 2.25,No
+Creeper explosion (normal),22.5HP × 11.25,43HP × 21.5,64.5HP × 32.25,"When exploding: No If having a potion effect when exploding, it leaves an effect cloud with the effect, like a lingering potion."
+Creeper explosion (charged),43.5HP × 21.75,85HP × 42.5,127.5HP × 63.75,"When exploding: No If having a potion effect when exploding, it leaves an effect cloud with the effect, like a lingering potion."
+Dolphin,2.5HP × 1.25,3HP,4.5HP × 2.25,No
+Drowned,2.5HP × 1.25,3HP,4.5HP × 2.25,No
+Drowned trident (ranged),7HP,9HP,12HP × 6,No
+Drowned trident (melee)‌,6HP,11HP × 5.5,16HP × 8,No
+Elder Guardian (laser),5HP,8HP,12HP × 6,Inflicts Mining Fatigue III for 5 minutes on nearby players
+Elder Guardian (spikes),2HP,2HP,3HP,Inflicts Mining Fatigue III for 5 minutes on nearby players
+Elder Guardian Ghost (spikes),2HP,2HP,2HP,Inflicts Mining Fatigue III for 5 minutes on nearby players
+Ender Dragon (melee),6HP,10HP,15HP × 7.5,No
+Ender Dragon (wings),3HP,5HP,7HP,No
+Ender Dragon (breath),3HP per second,3HP per second,3HP per second,Area effect cloud of Instant Damage
+Ender Dragon Dragon Fireball,6HP per second,6HP per second,6HP per second,Area effect cloud of Instant Damage
+Enderman,4.5HP × 2.25,7HP,10.5HP × 5.25,No
+Endermite,2HP,2HP,3HP,No
+Evoker fangs‌,4HP,6HP,9HP,No
+Evoker fangs‌,6HP,6HP,6HP,No
+Fox,2HP,2HP,3HP,No
+Frog,Target despawns after being pulled,Target despawns after being pulled,Target despawns after being pulled,No
+Ghast fireball (impact),4HP,6HP,9HP,No
+Ghast fireball (explosion),9.5HP × 4.75,17HP × 8.5,25.5HP × 12.75,No
+Giant‌,26HP × 13,50HP × 25,75HP × 37.5,No
+Goat,2HP,2HP,3HP,No
+Goat (baby),1HP,1HP,1.5HP × 0.75,No
+Guardian (laser),4HP,6HP,9HP,No
+Guardian (spikes),2HP,2HP,3HP,No
+Hoglin‌,2.5HP × 1.25 to 5HP,3HP to 8HP,4.5HP × 2.25 to 12HP × 6,No
+Hoglin‌,3HP,6HP,9HP,No
+Hoglin (baby),0.5HP × 0.25,0.5HP × 0.25,0.75HP × 0.375,No
+Husk,2.5HP × 1.25,3HP,4.5HP × 2.25,Hunger when attacking any mob for 7 × floor of RD seconds
+Illusioner arrow‌,2HP to 5HP,2HP to 5HP,3HP to 5HP,"Throws Blindness spells on the player, if regional difficulty is 2 or greater"
+Iron Golem,4.75HP × 2.375 to 11.75HP × 5.875,7.5HP × 3.75 to 21.5HP × 10.75,11.25HP × 5.625 to 32.25HP × 16.125,No
+The Killer Bunny‌,5HP,8HP,12HP × 6,No
+Llama spit,1HP,1HP,1.5HP × 0.75,No
+Magma Cube (big),4HP,6HP,9HP,No
+Magma Cube (medium),3HP,4HP,6HP,No
+Magma Cube (small),2.5HP × 1.25,3HP,4.5HP × 2.25,No
+Ocelot,3HP,3HP,3HP,No
+Old Zombie Villager,2.5HP × 1.25,3HP,4.5HP × 2.25,No
+Panda,4HP,6HP,9HP,No
+Phantom‌,2HP,2HP,3HP,No
+Phantom‌,4HP,6HP,9HP,No
+Piglin arrow‌,2HP to 5HP,2HP to 5HP,3HP to 5HP,No
+Piglin arrow‌,2HP - 4HP,2HP - 4HP,2HP to 5HP,No
+Piglin (melee with sword)‌,5HP,8HP,12HP × 6,No
+Piglin (melee with sword)‌,5HP,9HP,13HP × 6.5,No
+Piglin (melee without sword)‌,3.5HP × 1.75,5HP,7.5HP × 3.75,No
+Piglin Brute‌,7.5HP × 3.75,13HP × 6.5,19.5HP × 9.75,No
+Piglin Brute‌,6HP,10HP,15HP × 7.5,No
+Piglin Brute (unarmed),4.5HP × 2.25,7HP,10.5HP × 5.25,No
+Pillager arrow,3.5HP × 1.75,4HP,5HP,No
+Pillager (melee)‌,2HP,3HP,5HP,No
+Polar Bear,4HP,6HP,9HP,No
+Pufferfish (semi-puffed),2HP,2HP,3HP,Poison for 3 seconds
+Pufferfish (fully puffed)‌,2.5HP × 1.25,3HP,4.5HP × 2.25,Poison for 6 seconds
+Pufferfish (fully puffed)‌,2HP,2HP,3HP,Poison for 10 seconds
+Ravager (melee),7HP,12HP × 6,18HP × 9,No
+Ravager (roar),4HP,6HP,9HP,No
+Shulker bullet,3HP,4HP,6HP,Levitation for 10 seconds
+Silverfish,1HP,1HP,1.5HP × 0.75,No
+Skeleton arrow‌,2HP to 4HP,3HP to 4HP,4HP to 5HP,Normally: No If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow
+Skeleton arrow‌,"1HP to 4HP, varies with proximity","1HP to 4HP, varies with proximity","1HP to 5HP, varies with proximity",No
+Skeleton (melee),2HP,2HP,3HP,No
+Slime (big),3HP,4HP,6HP,No
+Slime (medium),2HP,2HP,3HP,No
+Slime (small),0HP,0HP,0HP,No
+Snow Golem snowball,3HP to blazes,3HP to blazes,3HP to blazes,No
+Spider,2HP,2HP,3HP,"No, but can spawn with effects"
+Stray arrow‌,3HP to 5HP,3HP to 5HP,3HP to 5HP,Normally: Slowness for 30 seconds when their tipped arrow hits any mob (including another stray) If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow
+Stray arrow‌,Damage varies with proximity,Damage varies with proximity,Damage varies with proximity,Normally: Slowness for 30 seconds when their tipped arrow hits any mob (including another stray) If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow
+Stray (melee),2HP,2HP,3HP,No
+Trader Llama spit,1HP,1HP,1.5HP × 0.75,No
+Vex,5.5HP × 2.75,9HP,13.5HP × 6.75,No
+Vex (unarmed),3HP,4HP,5HP,No
+Villager's firework rocket,5HP,8HP,12HP × 6,No
+Vindicator,7.5HP × 3.75,13HP × 6.5,19.5HP × 9.75,No
+Vindicator (unarmed),3.5HP × 1.75,5HP,7.5HP × 3.75,No
+Warden (melee),16HP × 8,30HP × 15,45HP × 22.5,No
+Warden (ranged),6HP,10HP,15HP × 7.5,No
+Witch,Deals damage by throwing potions,Deals damage by throwing potions,Deals damage by throwing potions,"Throws splash potions of Poison, Instant Damage, Slowness, and Weakness"
+Wither Skeleton,5HP,8HP,12HP × 6,Wither for 10 seconds
+Wither Skeleton (unarmed),2HP,2HP,3HP,Wither for 10 seconds
+Wither Skeleton arrow,2HP to 4HP + fire for 5 seconds,3HP to 4HP + fire for 5 seconds,4HP to 5HP + fire for 5 seconds,Normally: No If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow
+Wither (birth explosion),35.5HP × 17.75,69HP × 34.5,103.5HP × 51.75,No
+Wither Skull,5HP,8HP,12HP × 6,Wither II for 10 seconds on Normal difficulty and 40 seconds on Hard difficulty
+Wither Skull (explosion),5HP,5HP,5HP,No
+Wither (dash attack) ‌,15HP × 7.5,15HP × 7.5,15HP × 7.5,No
+Wolf,3HP,4HP,6HP,No
+Zoglin,3HP to 5HP,3HP to 8HP,4.5HP × 2.25 to 12HP × 6,No
+Zoglin (baby),0.5HP × 0.25,0.5HP × 0.25,0.75HP × 0.375,No
+Zombie,2.5HP × 1.25,3HP,4.5HP × 2.25,No
+Zombified Piglin,5HP,8HP,12HP × 6,No
+Zombified Piglin (unarmed),3HP,5HP,7HP,No
+Zombie Villager,2.5HP × 1.25,3HP,4.5HP × 2.25,No
