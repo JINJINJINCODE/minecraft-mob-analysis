@@ -36,7 +36,7 @@ def scrape_mob_drops():
     print(f"Found {len(tables)} tables.")
     
     # Preview the first few tables (for debugging)
-    for i, table in enumerate(tables[1:4]):
+    for i, table in enumerate(tables[1:4]): #[1:4] was found using Chrome's inspect tool
         df = pd.read_html(str(table))[0]
         print(f"\n--- Table {i} ---")
         print(df.head())

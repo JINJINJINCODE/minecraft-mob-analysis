@@ -1,4 +1,4 @@
-# Minecraft mob data analysis
+# Minecraft mob data analysis🐷
 
 This project combines data science with Minecraft by scraping and analyzing mob data from Minecraft Wiki. It focuses on mob drops and damage statistics to uncover new findings in mob values. 
 
