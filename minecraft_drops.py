@@ -69,7 +69,7 @@ def scrape_mob_damage():
     # Read it into a pandas dataframe
     damage_df = pd.read_html(str(damage_table_tag))[0]
     
-    # Flatten columns if multi-level
+    # Flatten columns 
     if isinstance(damage_df.columns, pd.MultiIndex):
         damage_df.columns = [' '.join(col).strip() for col in damage_df.columns]
     
@@ -90,3 +90,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Claude AI assisted in refining and formatting the code

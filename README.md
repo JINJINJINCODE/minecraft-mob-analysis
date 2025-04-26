@@ -1,6 +1,6 @@
 # Minecraft mob data analysis
 
-A project that scrapes Minecraft mob data and analyzes their behaviors.
+This project combines data science with Minecraft by scraping and analyzing mob data from Minecraft Wiki. It focuses on mob drops and damage statistics to uncover new findings in mob values. 
 
 # Files
 
@@ -11,20 +11,26 @@ A project that scrapes Minecraft mob data and analyzes their behaviors.
   - Damage values
   - Spawn conditions
 - `BLOG.ipynb` - Jupyter Notebook containing:
-  - Data cleaning steps
-  - Visualization of mob statistics
-  - Comparative analysis
+  - Data overview
+  - Methodology
+  - Visualization & Analysis
+  - Limitations
+  - Applications
 
 # Data Files
 - `passive_mobs.csv` - Peaceful mobs (cows, pigs, sheep)
 - `neutral_mobs.csv` - Mobs that attack when provoked (endermen, spiders)
-- `hostile_mobs.csv` - Always aggressive mobs (zombies, creepers)
-- `mob_damage.csv` - Damage values and attack patterns
+- `hostile_mobs.csv` - Aggressive mobs (zombies, creepers)
+- `mob_damage.csv` - Damage values and attacks
+
+# Requirements
+To run this project, you will need:
+- Python
+- Chrome browser & ChromeDriver
 
 # Setup Instructions
 
 1. Install requirements:
-```bash
 pip install requests beautifulsoup4 pandas matplotlib jupyter
 
 2. Run the scraper:
