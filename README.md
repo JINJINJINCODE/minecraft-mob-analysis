@@ -27,7 +27,7 @@ A project that scrapes Minecraft mob data and analyzes their behaviors.
 ```bash
 pip install requests beautifulsoup4 pandas matplotlib jupyter
 
-2. Run the scraper
+2. Run the scraper:
 python minecraft_drops.py
 
 3. Launch the analysis notebook
